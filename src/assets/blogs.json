@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Hello React!",
+    "description": "An introduction to React fundamentals.",
+    "thumbnail": "/images/blog1.jpeg",
+    "content": "React is a JavaScript library for building UIs. You can create dynamic web apps easily.",
+    "category": "Tech",
+    "tags": ["React", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with CSS",
+    "description": "Why CSS is important for front-end development.",
+    "thumbnail": "/images/blog2.jpeg",
+    "content": "CSS lets you style web pages for different devices, ensuring a great user experience.",
+    "category": "Design",
+    "tags": ["CSS", "Web Development"]
+  }
+]

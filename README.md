@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Listing Page
 
 A responsive React web application showcasing multiple blogs with detailed view functionality, built for internship and project demonstration.
@@ -82,3 +83,6 @@ This project is licensed under the MIT License.
 
 For any questions or suggestions, feel free to contact via GitHub!
 
+=======
+# blog-listing-app
+>>>>>>> a125ee1f41b70e335e1167664dbd56371caf4fbe
